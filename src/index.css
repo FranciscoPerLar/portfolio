@@ -29,7 +29,7 @@ body {
 }
 
 
-/* Menu btn*/
+/* Navbar*/
 
 .navbar{
   @apply absolute top-full mt-2 right-0 min-w-40 p-2 
@@ -38,7 +38,7 @@ body {
 }
 
 .navbar.active {
-  @apply opacity-100 scale-100 blur-0 visible
+  @apply opacity-100 scale-100 blur-0 visible 
 }
 
 .nav-link{
